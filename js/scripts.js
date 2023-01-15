@@ -4131,12 +4131,12 @@ function calculateSalmonTokenScoring() {
 
 	let salmonScoringValues = {
 		'1': 2,
-		'2': 4,
-		'3': 7,
-		'4': 11,
-		'5': 15,
+		'2': 5,
+		'3': 8,
+		'4': 12,
+		'5': 16,
 		'6': 20,
-		'7': 26
+		'7': 25
 	}
 
 	const tokenIDs = Object.keys(allPlacedTokens);
